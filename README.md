@@ -1,4 +1,4 @@
 # gitIntro
 Github Introduction
-I'm trying the Pull request procedure
-Readme file Added
+I'm trying to put a Pull request procedure
+The readme file Added
